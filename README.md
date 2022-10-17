@@ -1,4 +1,4 @@
-Binomial distribution visualization tool
+#Binomial distribution visualization tool
 
 Users can access advanced cumulative probabilities over ranges of values
 
